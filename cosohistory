@@ -1,0 +1,2 @@
+rm -f ~/.bash_history && history -c 
+#Para no liarme con los comandos
